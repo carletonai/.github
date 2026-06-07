@@ -1,14 +1,12 @@
-<div align="center" style="width:100%;">
+<div align="center">
   <a href="https://carletonai.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://carletonai.com/header-club.png">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4376973e-3aef-473f-83fd-9d424da3d30e">
-      <!-- Fallback (-->
-        <img src="https://carletonai.com/header-club.png" alt="Carleton AI Society" style="width: 100%; height: auto;">
+      <img src="https://carletonai.com/header-club.png" alt="Carleton AI Society" width="200">
     </picture>
   </a>
 </div>
-
 
 <table align="center">
     <tr>
