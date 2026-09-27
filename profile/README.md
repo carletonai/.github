@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://carletonai.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://carletonai.com/header-club.png">
@@ -39,4 +39,4 @@
             </a>
         </td>
     </tr>
-</table> -->
+</table> --> -->
